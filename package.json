@@ -1,0 +1,14 @@
+{
+  "name": "al-assessment",
+  "version": "1.0.0",
+  "description": "Assignment given by AirportLabs for the QA Engineer role, containing automated tests using Cypress framework.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alin Mocrii",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^14.0.0"
+  }
+}
